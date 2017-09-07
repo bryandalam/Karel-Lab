@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Problem2
+comment1.params=
+comment1.target=void\ carpetRooms()
+comment2.params=
+comment2.target=void\ checkRooms()
+comment3.params=
+comment3.target=void\ nextRoom()
+comment4.params=
+comment4.target=void\ testRoom()
+comment5.params=
+comment5.target=void\ faceSouth()
+numComments=6
